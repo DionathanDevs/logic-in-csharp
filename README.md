@@ -4,6 +4,7 @@
 ## Integrantes:
 - Tamires Rodrigues da Veiga
 - Dionathan Boing Mesquita
+- Marlon Zorzi Kososki
 
 
 ## Breve descrição dos exercícios:
