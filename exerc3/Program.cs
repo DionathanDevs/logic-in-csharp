@@ -13,7 +13,6 @@ class Program {
             Console.WriteLine("Número inválido.");
             return;
         }
-
         int fatorial = 1;
 
         while(num > 1){
@@ -22,6 +21,8 @@ class Program {
         }
 
         Console.WriteLine("O fatorial do número é " + fatorial);
+ 
 
     }
+    
 }
