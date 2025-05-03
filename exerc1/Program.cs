@@ -33,6 +33,8 @@ class Program {
             if(!temEspecial){ 
                 Console.WriteLine("Senha deve ter no mínimo 1 caractere especial");
             }
+
         }
+        
     }
 }
