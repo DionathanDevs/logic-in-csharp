@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\david\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\logic-in-csharp\\ex01\\ex01.csproj",
-      "projectName": "ex01",
-      "projectPath": "C:\\Users\\User\\Documents\\logic-in-csharp\\ex01\\ex01.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\logic-in-csharp\\ex01\\obj\\",
+      "projectUniqueName": "C:\\Users\\david\\Lista exercício C#\\exerc1\\exerc1.csproj",
+      "projectName": "exerc1",
+      "projectPath": "C:\\Users\\david\\Lista exercício C#\\exerc1\\exerc1.csproj",
+      "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\david\\Lista exercício C#\\exerc1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
