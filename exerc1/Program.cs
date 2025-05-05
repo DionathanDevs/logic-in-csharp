@@ -11,6 +11,7 @@ class Program {
         bool tamanhoMinimo = senha.Length >=8;
 
         bool temMaiuscula = Regex.IsMatch (senha, "[A-Z]");
+        
 
         bool temNumero = Regex.IsMatch (senha, "[0-9]");
 
