@@ -5,7 +5,7 @@ class Program {
 
     static void Main (){
 
-        Console.WriteLine("Digite um número: ");
+        Console.WriteLine("Digite um número inteiro: ");
         int num = int.Parse(Console.ReadLine() ?? "0");
 
         for (int i = 1; i < 11; i++) {
